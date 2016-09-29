@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TweetTableViewCell.(updateUI in _A4ACFB357557084BAE4A87127C46E787)() -&gt; ():TweetTableViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():TweetTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.indexPathForSelectedRow!">
+            </PersistentString>
+            <PersistentString
+               value = "managedObjectContext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RatingsTableViewController.(updateUI in _D51D50B7FC9E72FCEE81E3EE5A307483)() -&gt; ():RatingsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchTerm">
+            </PersistentString>
+            <PersistentString
+               value = "term">
+            </PersistentString>
+            <PersistentString
+               value = "(context.executeFetchRequest(termRequest).first as? SearchTerm)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewCell.((setProfileImage in _A4ACFB357557084BAE4A87127C46E787)(NSURL) -&gt; ()).(closure #1).(closure #1):TweetTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weakSelf?.tweet?.user.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RecentTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():RecentTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tweetVC">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Tweet.newTweetsWithTwitterInfo([Tweet], searchText : String, inManagedObjectContext : NSManagedObjectContext) -&gt; ():Tweet.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "twitterInfo[index].created">
+            </PersistentString>
+            <PersistentString
+               value = "newTweetsIDs.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RatingsTableViewController.((updateUI in _D51D50B7FC9E72FCEE81E3EE5A307483)() -&gt; ()).(closure #1):RatingsTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Tweet.tweetWithTwitterInfo(Tweet, searchText : String, inManagedObjectContext : NSManagedObjectContext) -&gt; Tweet?:Tweet.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newMention?.tweets?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIViewController.addBarButton(UIBarButtonItem, side : UIViewController.Sides, order : UIViewController.Order) -&gt; ():TweetDetailTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "order">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIViewController.addBarButton(UIBarButtonItem, side : UIViewController.Sides) -&gt; ():TweetDetailTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationItem.rightBarButtonItems ?? [] + [button]">
+            </PersistentString>
+            <PersistentString
+               value = "button.style">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RatingsTableViewController.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:RatingsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mention.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.tweets.didset:TweetTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tweets.first as? Twitter.Tweet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.searchText.didset:TweetTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.numberOfSectionsInTableView(UITableView) -&gt; Int:TweetTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tweets.count">
+            </PersistentString>
+            <PersistentString
+               value = "tweets">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetersTableViewController.(updateUI in _C4ED068806BBB2DE1D1BA83FC7B0CBDB)() -&gt; ():TweetersTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mention">
+            </PersistentString>
+            <PersistentString
+               value = "managedObjectContext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Tweet.removeOldTweets(NSManagedObjectContext) -&gt; ():Tweet.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.countForFetchRequest(NSFetchRequest(entityName: &quot;Tweet&quot;), error: nil)">
+            </PersistentString>
+            <PersistentString
+               value = "Set(mentionsToUpdate).count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.(searchForTweets in _94E66152F44D196287B70E077579A9D4)() -&gt; ():TweetTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewCell.((setProfileImage in _A4ACFB357557084BAE4A87127C46E787)(NSURL, name : String) -&gt; ()).(closure #1).(closure #1):TweetTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "name">
+            </PersistentString>
+            <PersistentString
+               value = "weakSelf?.tweet?.user.profileImageURL">
+            </PersistentString>
+            <PersistentString
+               value = "nam">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.(twitterRequest in _94E66152F44D196287B70E077579A9D4).getter:TweetTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Twitter.Request(search: query + &quot; -filter:retweets&quot;, count: 100)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ImageViewController.(image in _C18A921E60A26EF19D7D258799C44279).setter:ImageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static TwitterUser.updateTweetCount(TwitterUser) -&gt; ():TwitterUser.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
