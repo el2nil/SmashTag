@@ -37,6 +37,7 @@
 		4FBC599F1D7DA7B800B52C0E /* RecentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBC599E1D7DA7B800B52C0E /* RecentTableViewController.swift */; };
 		4FBC59A31D7DAFF600B52C0E /* RecentSearches.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBC59A21D7DAFF600B52C0E /* RecentSearches.swift */; };
 		4FBC59A51D7DDFC400B52C0E /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBC59A41D7DDFC400B52C0E /* WebViewController.swift */; };
+		4FE0C1DF1D9DC6EE00B50700 /* SmashTag (Swift 2).xcworkspace in Resources */ = {isa = PBXBuildFile; fileRef = 4FE0C1DE1D9DC6EE00B50700 /* SmashTag (Swift 2).xcworkspace */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +97,7 @@
 		4FBC59A21D7DAFF600B52C0E /* RecentSearches.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecentSearches.swift; sourceTree = "<group>"; };
 		4FBC59A41D7DDFC400B52C0E /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		4FE0C1D71D9DC6A100B50700 /* Twitter.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Twitter.xcodeproj; path = "Twitter (Swift 2)/Twitter.xcodeproj"; sourceTree = "<group>"; };
+		4FE0C1DE1D9DC6EE00B50700 /* SmashTag (Swift 2).xcworkspace */ = {isa = PBXFileReference; lastKnownFileType = wrapper.workspace; path = "SmashTag (Swift 2).xcworkspace"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 		4FBC59691D7C18E200B52C0E = {
 			isa = PBXGroup;
 			children = (
+				4FE0C1DE1D9DC6EE00B50700 /* SmashTag (Swift 2).xcworkspace */,
 				4FE0C1D71D9DC6A100B50700 /* Twitter.xcodeproj */,
 				4FBC59901D7C21AA00B52C0E /* Twitter.framework */,
 				4FBC59741D7C18E200B52C0E /* SmashTag */,
@@ -266,6 +269,7 @@
 			files = (
 				4FBC59801D7C18E200B52C0E /* LaunchScreen.storyboard in Resources */,
 				4FBC597D1D7C18E200B52C0E /* Assets.xcassets in Resources */,
+				4FE0C1DF1D9DC6EE00B50700 /* SmashTag (Swift 2).xcworkspace in Resources */,
 				4FBC597B1D7C18E200B52C0E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
